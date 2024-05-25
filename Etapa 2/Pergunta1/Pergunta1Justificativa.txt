@@ -1,0 +1,7 @@
+1. Como você melhoraria a legibilidade do código?
+
+Para melhorar a legibilidade do código, podemos adotar algumas práticas recomendadas:
+
+- Adicionar Comentários: Explicar o que cada parte do código faz.
+- Separar a Lógica em Funções: Em vez de usar uma função anônima, criar uma função nomeada para melhorar a clareza e a reutilização.
+- Formatação e Espaçamento: Usar uma formatação consistente para facilitar a leitura.

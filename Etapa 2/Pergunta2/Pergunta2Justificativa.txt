@@ -1,0 +1,12 @@
+2. Como você alteraria o código para a frase ser exibida em sites com múltiplos idiomas?
+
+Para suportar múltiplos idiomas, é necessário adicionar funções de internacionalização e fornecer arquivos de tradução.
+
+# Adicionar Funções de Internacionalização (`__` e `_e`):
+
+- Usar `__()` ou `_e()` para strings que precisam ser traduzidas.
+- Carregar o texto do domínio do plugin para traduções.
+
+# Criar Arquivos de Tradução:
+
+- Criar arquivos .po e .mo no diretório /languages.

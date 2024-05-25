@@ -1,0 +1,8 @@
+3. Para se adequar ao WordPress Code Standard, qual ajuste no tipo de função você faria?
+
+O WordPress Coding Standards recomenda o uso de funções nomeadas em vez de funções anônimas para melhor legibilidade e rastreabilidade. Já fiz essa mudança na resposta à primeira pergunta.
+
+Além disso, é importante seguir padrões de nomenclatura e usar funções de escape adequadas para garantir segurança e compatibilidade:
+
+- Nomenclatura de Funções: Usar prefixos para evitar conflitos.
+- Escapamento de Saída: Usar funções de escapamento como esc_html__().
