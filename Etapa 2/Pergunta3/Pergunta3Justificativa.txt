@@ -5,4 +5,4 @@ O WordPress Coding Standards recomenda o uso de funções nomeadas em vez de fun
 Além disso, é importante seguir padrões de nomenclatura e usar funções de escape adequadas para garantir segurança e compatibilidade:
 
 - Nomenclatura de Funções: Usar prefixos para evitar conflitos.
-- Escapamento de Saída: Usar funções de escapamento como esc_html__().
+- Escapamento de Saída: Usar funções de escapamento como `esc_html__()`.
